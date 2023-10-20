@@ -1,0 +1,23 @@
+1. What is MongoDB?
+=> MongoDB is a popular and widely used open-source NoSQL database management system. It is designed to store, manage, and retrieve data in a flexible and scalable manner, making it particularly well-suited for modern applications that require the storage and management of large datasets.
+
+=> MongoDB is schemaless, which means that documents in a collection do not need to have a fixed structure. This flexibility makes it easy to evolve the schema as application requirements change.
+
+=> MongoDB is designed to scale horizontally, which means you can add more servers to your database cluster to handle increased data or traffic.
+
+=> MongoDB supports replication, which allows you to create copies of your data on multiple servers to ensure high availability and fault tolerance.
+
+=> MongoDB has built-in support for geospatial data, making it suitable for applications that require location-based services.
+
+=> MongoDB is commonly used in a wide range of applications, including content management systems, e-commerce platforms, social media applications, real-time analytics, and more. Its flexibility and scalability make it a popular choice for developers and organizations looking for a modern database.
+
+
+
+2. Installing and running MongoDB
+=> go to google and visit "https://www.mongodb.com/try/download/community" and download mongodb 
+=> its install mongoshell also with mongodb 
+=> install mongodb compass to show databases and collections
+=> we can also use mongodb atlas the cloud database.
+=> check mongodb and mongoshell version
+   1. mongodb -v 
+   2. mongosh -v
